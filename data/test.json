@@ -1,0 +1,17 @@
+{
+   "header": {
+      "capture_device": "eth1",
+      "timestamp": "2013-08-30 16:48:48 -0300"
+   },
+   "nodes": [
+      {
+         "name": {
+            "id": [
+               "0.0.0.0"
+            ],
+            "resolved_name": "0.0.0.0",
+            "numeric_name": "0.0.0.0"
+         }
+      }
+    ]
+};
